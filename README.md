@@ -1,16 +1,14 @@
-# best_calculator
+# 🔢 BestCalculator - It is the best.
+BestCalculator - My first mobile App that user could calculate numbers. Built with Flutter
 
-A new Flutter project.
+## 📸 Screenshots
+![image](https://github.com/user-attachments/assets/977844be-1088-4532-8754-d5ae595b568b)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## ✨ Features
+Addition, Subtraction, Division, Multiplication
+Counter how many times you used the calculator
+Saves the counter  using the HIVE database
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🙏 Acknowledgments
+This project was inspired by Mitch Koko https://www.youtube.com/@createdbykoko. Check out their tutorial: 📱 FULL Flutter Beginner Course • Programming Basics / Widgets / Navigation / User Input / UI(https://www.youtube.com/watch?v=HQ_ytw58tC4&t=4229s).
